@@ -9,7 +9,6 @@ import {
 } from 'react-native';
 import Marquee from '@remobile/react-native-marquee';
 
-
 export default class App extends React.Component {
 
   constructor(props) {
